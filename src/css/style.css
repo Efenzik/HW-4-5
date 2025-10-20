@@ -3,14 +3,9 @@ body {
   text-align: center;
   margin-top: 50px;
 }
-.key {
-  font-size: 20px;
-  margin: 20px 0;
-}
+
 button {
   font-size: 30px;
-  border-radius: 5px;
   padding: 10px 20px;
-  cursor: pointer;
-  margin-top: 20px;
+  margin-top: 40px;
 }
