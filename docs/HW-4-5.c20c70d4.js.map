@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/js/script.js","src/js/tasks/task1.js","src/js/tasks/task2.js"],"sourcesContent":["import \"./tasks/task1.js\";\r\nimport \"./tasks/task2.js\";\r\n","",""],"names":[],"version":3,"file":"HW-4-5.c20c70d4.js.map"}
