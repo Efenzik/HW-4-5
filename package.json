@@ -5,7 +5,9 @@
   "name": "hw-4-5",
   "version": "1.0.0",
   "type": "module",
-  "devDependencies": {},
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0"
+  },
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --dist-dir docs --public-url ./"
